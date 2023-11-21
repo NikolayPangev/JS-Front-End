@@ -4,5 +4,3 @@ function sumElements(inputArr){
     let sum = firstEl + lastEl;
     console.log(sum);
 }
-
-sumElements([10, 17, 22, 33])
