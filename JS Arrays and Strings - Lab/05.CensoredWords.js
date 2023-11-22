@@ -4,4 +4,3 @@ function censoredWords(text, word) {
     }
     console.log(text);
 }
-censoredWords('A small sentence with some words', 'small')
